@@ -7,5 +7,23 @@
       ],
       "key": "N"
     }
+  ],
+  "colored-text:color-text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "colored-text:remove-color": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
