@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Git/GitMechanic.md",
+                "file": "Hardware-learning/01 - Motherboard/03 - Chipset.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitMechanic"
+              "title": "03 - Chipset.md"
             }
           }
         ]
@@ -185,24 +185,41 @@
   },
   "active": "7a6fc548b95d37bf",
   "lastOpenFiles": [
-    "Cyber-learning-by-day/Cyber-learning Day1.md",
-    "Cyber-learning-by-day/Cyber-learning-Day2.md",
-    "Cyber-learning-by-day/Cyber-learning-template.md",
+    "Hardware-learning/01 - Motherboard/02 - Components.md.md",
+    "Hardware-learning/01 - Motherboard/01 - Overview.md.md",
+    "Hardware-learning/01 - Motherboard/12 - Linux & Security.md.md",
     "Command/CommandMechanicsExplanation(GIT).md",
-    "Documentation/Git/GitMechanic.md",
+    "Documentation/Git/GitMechanics.md",
+    "Hardware-learning/Hardware-Mass create files sample.md",
+    "Hardware-learning/12 - Input & Output Devices/12 - Commands.md.md",
+    "Hardware-learning/12 - Input & Output Devices/11 - Troubleshooting.md.md",
+    "Hardware-learning/12 - Input & Output Devices/10 - Security.md.md",
+    "Hardware-learning/12 - Input & Output Devices/09 - Linux.md.md",
+    "Hardware-learning/12 - Input & Output Devices/08 - Printers.md.md",
+    "Hardware-learning/12 - Input & Output Devices/07 - Webcam.md.md",
+    "Hardware-learning/12 - Input & Output Devices/06 - Microphone.md.md",
+    "Hardware-learning/12 - Input & Output Devices/05 - Speakers.md.md",
+    "Hardware-learning/12 - Input & Output Devices/04 - Monitor.md.md",
+    "Hardware-learning/12 - Input & Output Devices/03 - Mouse.md.md",
+    "Hardware-learning/12 - Input & Output Devices/02 - Keyboard.md.md",
+    "Hardware-learning/12 - Input & Output Devices/01 - Overview.md.md",
+    "Hardware-learning/11 - Firmware/12 - Commands.md.md",
+    "Hardware-learning/11 - Firmware/11 - Recovery.md.md",
+    "Hardware-learning/11 - Firmware/10 - Security.md.md",
+    "Hardware-learning/11 - Firmware/09 - Linux.md.md",
+    "Hardware-learning/11 - Firmware/08 - Firmware Updates.md.md",
+    "Hardware-learning/11 - Firmware/07 - TPM.md.md",
+    "Hardware-learning/11 - Firmware/06 - Secure Boot.md.md",
+    "Hardware-learning/11 - Firmware/05 - Boot Sequence.md.md",
+    "Hardware-learning/02 - CentralProcessingUnit(CPu)",
+    "Hardware-learning/01 - Motherboard",
     "Command",
-    "Obsidian coulor.md",
     "Documentation/Git/Command basic",
-    "Untitled 1.md",
     "Documentation/Obsidian",
     "Documentation/Git",
     "Documentation",
-    "Hardware-learning/Cooling",
-    "Hardware-learning/Ports(USB,HDMI,Ethernet ect.)",
-    "Hardware-learning/Networking(NIC,ROUTER,Switch)",
-    "Hardware-learning/SATA",
-    "Hardware-learning/PCIe and M.2",
-    "Hardware-learning/Untitled.md",
-    "Welcome.md"
+    "Hardware-learning/07 - Cooling",
+    "Hardware-learning/11 - Firmware",
+    "Hardware-learning/08 - Network Hardware"
   ]
 }
