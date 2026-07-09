@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware-learning/01 - Motherboard/03 - Chipset.md.md",
+                "file": "Hardware-learning/01 - Motherboard/04 - CPU Socket.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Chipset.md"
+              "title": "04 - CPU Socket.md"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "7a6fc548b95d37bf",
   "lastOpenFiles": [
+    "Hardware-learning/01 - Motherboard/03 - Chipset.md.md",
     "Hardware-learning/01 - Motherboard/02 - Components.md.md",
     "Hardware-learning/01 - Motherboard/01 - Overview.md.md",
     "Hardware-learning/01 - Motherboard/12 - Linux & Security.md.md",
@@ -210,7 +211,6 @@
     "Hardware-learning/11 - Firmware/08 - Firmware Updates.md.md",
     "Hardware-learning/11 - Firmware/07 - TPM.md.md",
     "Hardware-learning/11 - Firmware/06 - Secure Boot.md.md",
-    "Hardware-learning/11 - Firmware/05 - Boot Sequence.md.md",
     "Hardware-learning/02 - CentralProcessingUnit(CPu)",
     "Hardware-learning/01 - Motherboard",
     "Command",
