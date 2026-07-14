@@ -1,4 +1,4 @@
--  What is expansion Slotsi? 
+-  What is expansion Slots? 
 	Its a connector in the motherboard thats make it possible
 	to expand the computer.
 
