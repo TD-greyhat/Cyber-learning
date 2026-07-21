@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware-learning/01 - Motherboard/11 - CMOS Battery.md",
+                "file": "Hardware-learning/01 - Motherboard/10 - I-O Ports.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - CMOS Battery"
+              "title": "10 - I-O Ports.md"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "7a6fc548b95d37bf",
   "lastOpenFiles": [
+    "Documentation/Git/GitMechanics.md",
     "Hardware-learning/01 - Motherboard/10 - I-O Ports.md.md",
-    "Hardware-learning/11 - Firmware/10 - Security.md.md",
+    "Hardware-learning/01 - Motherboard/11 - CMOS Battery.md",
     "Hardware-learning/01 - Motherboard/09 - BIOS & UEFI.md.md",
+    "Hardware-learning/11 - Firmware/10 - Security.md.md",
     "Hardware-learning/01 - Motherboard/08 - Power Delivery.md.md",
     "Hardware-learning/01 - Motherboard/02 - Components.md.md",
     "Hardware-learning/01 - Motherboard/07 - Storage Interfaces.md.md",
@@ -196,9 +198,7 @@
     "Hardware-learning/01 - Motherboard/04 - CPU Socket.md.md",
     "Hardware-learning/01 - Motherboard/01 - Overview.md.md",
     "Hardware-learning/01 - Motherboard/03 - Chipset.md.md",
-    "Hardware-learning/01 - Motherboard/11 - CMOS Battery.md",
     "Command/CommandMechanicsExplanation(GIT).md",
-    "Documentation/Git/GitMechanics.md",
     "Hardware-learning/Hardware-Mass create files sample.md",
     "Hardware-learning/12 - Input & Output Devices/12 - Commands.md.md",
     "Hardware-learning/12 - Input & Output Devices/11 - Troubleshooting.md.md",
