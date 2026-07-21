@@ -18,7 +18,7 @@
 		- Where is the Linux
 		- Where is the OS
 		- Where is the SSD
-		- How many RAMs there
+		- How many RAMs are
 		thats why the CPU starts from a premade link 
 		where the firmware located.
 
@@ -30,10 +30,12 @@
 
 -  What is a POST?
 	POST = **Power-On Self-Test**
-	this is an hardware checking. 
+	this is a hardware checking. 
+	Is there the essencial hardwares, and more
+	Everything is working properly.
 
 -  Boot Order
-	The BIOS/UEFI knows whats the checking order for the starable devices.
+	The BIOS/UEFI knows whats the checking order for the startable devices.
 
 -  What is the Secure Boot?
 	The secure boot reason is to make sure,

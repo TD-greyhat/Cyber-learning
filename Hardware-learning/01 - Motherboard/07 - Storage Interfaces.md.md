@@ -1,5 +1,5 @@
 -  Storage interfaces:
-	Its the mod how storage devices communicationg with the computer.
+	Its the mod how storage devices communicating with the computer.
 	Most populars:
 		- SATA
 		- PCIe (NVMe protokoll)

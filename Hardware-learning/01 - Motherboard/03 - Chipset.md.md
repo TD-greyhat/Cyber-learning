@@ -7,7 +7,7 @@
 
 -  Connetcions of the Chipset
 	- SATA ports
-	- USP ports
+	- USB ports
 	- Voice controller
 	- LAN
 	- some PCIe lanes
