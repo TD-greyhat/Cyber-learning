@@ -59,4 +59,4 @@
 
 		- dmesg
 		- efibootmr
-		- ls /sys/firmware/efi
+	- ls /sys/firmware/efi
