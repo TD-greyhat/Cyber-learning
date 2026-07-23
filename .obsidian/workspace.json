@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware-learning/02 - CentralProcessingUnit(CPu)/02 - Architecture.md.md",
+                "file": "Hardware-learning/02 - CentralProcessingUnit(CPu)/05 - Clock Speed.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Architecture.md"
+              "title": "05 - Clock Speed.md"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "4537144a238eb903",
@@ -185,6 +185,8 @@
   },
   "active": "7a6fc548b95d37bf",
   "lastOpenFiles": [
+    "Hardware-learning/02 - CentralProcessingUnit(CPu)/02 - Architecture.md.md",
+    "Hardware-learning/01 - Motherboard/03 - Chipset.md.md",
     "Hardware-learning/02 - CentralProcessingUnit(CPu)/01 - Overview.md.md",
     "Hardware-learning/01 - Motherboard/10 - I-O Ports.md.md",
     "Hardware-learning/01 - Motherboard/11 - CMOS Battery.md",
@@ -193,7 +195,6 @@
     "Hardware-learning/01 - Motherboard/07 - Storage Interfaces.md.md",
     "Hardware-learning/01 - Motherboard/06 - Expansion Slots.md.md",
     "Hardware-learning/01 - Motherboard/05 - Memory Slots.md.md",
-    "Hardware-learning/01 - Motherboard/03 - Chipset.md.md",
     "Documentation/Git/GitMechanics.md",
     "Hardware-learning/11 - Firmware/10 - Security.md.md",
     "Hardware-learning/01 - Motherboard/02 - Components.md.md",
@@ -210,7 +211,6 @@
     "Hardware-learning/12 - Input & Output Devices/06 - Microphone.md.md",
     "Hardware-learning/12 - Input & Output Devices/05 - Speakers.md.md",
     "Hardware-learning/12 - Input & Output Devices/04 - Monitor.md.md",
-    "Hardware-learning/12 - Input & Output Devices/03 - Mouse.md.md",
     "Hardware-learning/02 - CentralProcessingUnit(CPu)",
     "Hardware-learning/01 - Motherboard",
     "Command",
